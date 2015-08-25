@@ -15,19 +15,21 @@ The project is a prototype on pre-alpha stage. The goal is to let interested peo
 ![D3 Data Visualization](Add Link Here)
 
 #### Press
-To be added
+blog.miamigraph.com
 
 ## Why
-To be added
+To create a better way of visualizing policies that affect the Miami Community
 
 ## Who is Working On It
-Mauro Perez - Project Lead - Full Stack JavaScript developer
+Mauro Perez - Contibution - Full Stack JavaScript developer
 * [Mauro Perez](https://github.com/maurop123)
+Gregory Johnson - Contributor - Web Designer & Python Developer
+* [Gregory Johnson] (https://github.com/higregory)
 
 ## How
 #### Dependencies
 Programming Languages: HTML, CSS, JavaScript (jQuery), SASS (not implement)
-Framework: Meteor
+Framework: Meteor, MaterializeCSS
 Databases: Mongo (Not Implemented)
 Version: latest
 
