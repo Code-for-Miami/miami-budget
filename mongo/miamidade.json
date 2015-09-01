@@ -364,7 +364,7 @@
 }
 {
 "fiscal_year": "2016",
-"division": "Controller's "division"",
+"division": "Controller's division",
 "recommended_amount": "11606000",
 "strategic_area": "General Government",
 "department": "Finance"
@@ -521,7 +521,7 @@
 "division": "Economic Development",
 "recommended_amount": "42848000",
 "strategic_area": "Economic Development",
-"department": "Non-"department"al"
+"department": "Non-departmental"
 }
 {
 "fiscal_year": "2016",
@@ -766,7 +766,7 @@
 "division": "General Government",
 "recommended_amount": "73870000",
 "strategic_area": "General Government",
-"department": "Non-"department"al"
+"department": "Non-departmental"
 }
 {
 "fiscal_year": "2016",
@@ -822,7 +822,7 @@
 "division": "Health and Human Services",
 "recommended_amount": "29556000",
 "strategic_area": "Health and Human Services",
-"department": "Non-"department"al"
+"department": "Non-departmental"
 }
 {
 "fiscal_year": "2016",
@@ -1102,11 +1102,11 @@
 "division": "Neighborhood and Infrastructure",
 "recommended_amount": "5537000",
 "strategic_area": "Neighborhood and Infrastructure",
-"department": "Non-"department"al"
+"department": "Non-departmental"
 }
 {
 "fiscal_year": "2016",
-"division": "Non-"department"al",
+"division": "Non-departmental",
 "recommended_amount": "72100000",
 "strategic_area": "Transportation",
 "department": "Aviation"
@@ -1424,7 +1424,7 @@
 "division": "Public Safety",
 "recommended_amount": "6992000",
 "strategic_area": "Public Safety",
-"department": "Non-"department"al"
+"department": "Non-departmental"
 }
 {
 "fiscal_year": "2016",
@@ -1480,7 +1480,7 @@
 "division": "Recreation and Culture",
 "recommended_amount": "350000",
 "strategic_area": "Recreation and Culture",
-"department": "Non-"department"al"
+"department": "Non-departmental"
 }
 {
 "fiscal_year": "2016",
