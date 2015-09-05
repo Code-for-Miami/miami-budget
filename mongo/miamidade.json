@@ -1,38 +1,8 @@
-{
-"fiscal_year": "2016",
-"division": "311 Answer Center Operations",
-"recommended_amount": "11931000",
-"strategic_area": "General Government",
-"department": "Communications"
-}
-{
-"fiscal_year": "2016",
-"division": "Administration",
-"recommended_amount": "113000",
-"strategic_area": "Economic Development",
-"department": "Public Housing and Community Development"
-}
-{
-"fiscal_year": "2016",
-"division": "Administration",
-"recommended_amount": "220000",
-"strategic_area": "General Government",
-"department": "Audit and Management Services"
-}
-{
-"fiscal_year": "2016",
-"division": "Administration",
-"recommended_amount": "1067000",
-"strategic_area": "General Government",
-"department": "Management and Budget"
-}
-{
-"fiscal_year": "2016",
-"division": "Administration",
-"recommended_amount": "1138000",
-"strategic_area": "Recreation and Culture",
-"department": "Library"
-}
+{"fiscal_year": "2016", "division": "311 Answer Center Operations","recommended_amount": "11 931000","strategic_area": "General Government","department": "Communications"}
+{"fiscal_year": "2016","division": "Administration","recommended_amount": "113000","strategic_area": "Economic Development","department": "Public Housing and Community Development"}
+{"fiscal_year": "2016","division": "Administration","recommended_amount": "220000","strategic_area": "General Government","department": "Audit and Management Services"}
+{"fiscal_year": "2016","division": "Administration","recommended_amount": "1067000","strategic_area": "General Government","department": "Management and Budget"}
+{"fiscal_year": "2016","division": "Administration","recommended_amount": "1138000","strategic_area": "Recreation and Culture","department": "Library"}
 {
 "fiscal_year": "2016",
 "division": "Administration",
@@ -1733,5 +1703,4 @@
 "recommended_amount": "22483000",
 "strategic_area": "Recreation and Culture",
 "department": "Parks, Recreation and Open Spaces"
-}
 }
