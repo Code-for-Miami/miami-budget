@@ -37,3 +37,7 @@ Refer to Trello
 
 #### Research
 Refer to Trello
+
+### Contributors
+* Mauro Perez (http://mptysquare.com) - Lead Developer
+* Gregory Johnson (http://igregoryjohnson.com) - Lead UX Designer
