@@ -22,3 +22,4 @@ Router.route('budget-builder', ()->
 Router.route('pie')
 Router.route('three-eleven')
 Router.route('budget')
+Router.route('did-you-know-input-form')
